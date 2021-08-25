@@ -11,5 +11,6 @@ My main role is JavaScript developer, as you can clearly see by looking around. 
 Here are some of my on-progress projects that you can find online:
 * [ParkIt](https://mauricioaraldi.github.io/parkit/)
 * [Moba Drafter](https://mauricioaraldi.github.io/moba-drafter/)
+* [COVID Ghost Town](https://covid-ghost-town.vercel.app/en-US/brazil)
 
 You can also find me in [LinkedIn](https://www.linkedin.com/in/mauricio-luis-comin-araldi-a1279a17a/)
