@@ -12,5 +12,6 @@ Here are some of my on-progress projects that you can find online:
 * [ParkIt](https://mauricioaraldi.github.io/parkit/)
 * [Moba Drafter](https://mauricioaraldi.github.io/moba-drafter/)
 * [COVID Ghost Town](https://covid-ghost-town.vercel.app/en-US/brazil)
+* [Diablo 2 Item cropper](https://mauricioaraldi.github.io/d2-item-cropper/)
 
 You can also find me in [LinkedIn](https://www.linkedin.com/in/mauricio-luis-comin-araldi-a1279a17a/)
